@@ -41,12 +41,11 @@ A cleaned and curated dataset spanning Olympic athlete participation from **1896
 
 ## Tools and Libraries
 
-- `Python` (core programming language)
-- `NumPy`, `Pandas` – Data processing and analysis
-- `Matplotlib`, `Seaborn` – Data visualization
-- `SciPy`, `statsmodels` – Regression and statistical tests
-- `scikit-learn` – Clustering (K-Means)
-- `Jupyter Notebook` – Workflow and reproducibility
+- `Python` - (core programming language)
+- `NumPy`, `Pandas` - Data cleaning and analysis
+- `Matplotlib`, `Seaborn` - Data visualization
+- `SciPy`, `statsmodels` - Regression and statistical tests
+- `scikit-learn` - K-Means clustering
 
 ---
 
